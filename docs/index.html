@@ -10,10 +10,16 @@
 </head>
 <body>
   <div id="app"></div>
-  <script>
+ <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'MMSS-doc-template',
+      repo: 'git@github.com:renashen314/MMSS-doc-template.git',
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      loadSidebar: true,
+      autoPath: true,
+
     }
   </script>
   <!-- Docsify v4 -->
