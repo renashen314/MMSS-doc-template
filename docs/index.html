@@ -14,15 +14,18 @@
     window.$docsify = {
       name: 'MMSS-doc-template',
       repo: 'git@github.com:renashen314/MMSS-doc-template.git',
+      basePath: '/docs/',
+      externalLinkRel: '', // default: 'noopener'
+      homepage: 'application_overview.md',
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
+      auto2top: true,
       loadSidebar: true,
+      subMaxLevel: 3,
       autoHeader: true,
-      paths: "auto",
-      autoPath: true,
+      relativePath: true,
       subLevel: true,
-
     }
   </script>
   <!-- Docsify v4 -->

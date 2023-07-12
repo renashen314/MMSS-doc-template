@@ -5,19 +5,19 @@ The MMSS registration opens at the end of December every year and lasts through 
 ## Sign Up Process
 
 To begin the registration process, MMSS Applicants will need to create an account in the MMSS Registration Application. Signing up to the application creates a user record. Once the account is created, the MMSS Applicant can always change their password if desired. Returning participants can use the same email and password for any future camps they are interested in.
-![sign up process step 1](../assets/sign-up-step1.png)
+![sign up process step 1](../assets/signup-step1.png)
 
 When the MMSS Applicants click on the Sign Up Button, they will:
 1.  Enter an Email.
 2.  Create and confirm a password (10 character minimum).
 3.  Click Sign Up.
-![sign up process step 2](../assets/sign-up-step2.png)
+![sign up process step 2](../assets/signup-step2.png)
 **NOTE**: After signing up, returning MMSS Applicants can click on the Returning User - Sign In button to sign in and continue their application.  
 
 ## Registration Process
 
 Once signed up and signed in, MMSS Applicants will start the Registration process to create their Application Details. Returning MMSS Participants can edit this information if any information changes. They will be taken to a page with instructions.
-![sign up process step 3](../assets/sign-up-step3.png)
+![registration](../assets/scholarship-registration-registration.png)
 
 The MMSS Applicant will click on **Registration** and fill out of the following information:
 
@@ -94,6 +94,47 @@ MMSS Applicants will be able to rank the courses later in the application proces
 
 ### Student Personal Statement
 ![student personal statement form](../assets/student-personal-statement.png)
+
 ### Transcripts
 ![transcript upload](../assets/transcripts.png)
+
 Once the Transcript is uploaded to the application and the MMSS Applicant clicks on **Submit Application**, the next screen is the course rankings.
+
+### Course Rankings
+![scholar course rankings](../assets/scholar-course-ranking.png)
+
+Click on **Course Rankings**
+
+![course rankings](../assets/course-rankings.png)
+
+MMSS Applicants will click on Edit and select their ranking for the course
+
+![edit course preference](../assets/edit-course-preference.png)
+
+### Letter of Recommendation
+MMSS Applicants must indicate their Designated Recommender to complete the application.
+
+![letter of recommendation uplaod](../assets/registration-letter-of-rec.png)
+
+Click on Request **Letter of Recommendation.**
+
+![letter of recommendation form](../assets/letter-of-rec-form.png)
+
+Once the MMSS Applicant completes this part of the application, an email is sent to the Designated Recommender indicated on the form. That email will contain a link to the MMSS Registration System and the [Designated Recommender](https://docs.google.com/document/d/1DMKtl88GnAAWM5Fkztdc3-tN92SZq2pm1a8yJfxccmE/edit#heading=h.i7obr51sefjy) will have a form to complete.
+
+### Application Fee Payment
+MMSS Applicants will need to pay the $100 application fee.
+
+![application fee](../assets/pay-fee.png)
+
+When the MMSS Applicant clicks on **Pay Application fee**, they will be taken to the NelNet payment system.
+
+![countinue paying fee](../assets/continue-pay-fee.png)
+
+MMSS Applicants will follow the instruction after this screen to complete payment. Once the MMSS Applicant submits the payment, the application status will change to submitted.
+
+![progress window application submitted](../assets/process-window-app-submitted.png)
+
+MMSS Applicants will receive a confirmation email of the submitted application. At this point, applicants cannot change their session selections. For the application to be complete, the MMSS Applicant’s Designated Recommender must submit their [Letter of Recommendation](https://docs.google.com/document/d/1DMKtl88GnAAWM5Fkztdc3-tN92SZq2pm1a8yJfxccmE/edit#heading=h.i7obr51sefjy).
+
+At this point, the MMSS Applicant has submitted all required materials. They have the option to request Financial Aid.
