@@ -1,0 +1,3 @@
+# Application Overview
+
+The Michigan Math & Science Scholars Summer Program (MMSS) is a summer program designed to provide high school students access to current developments and research in the sciences and to encourage the next generation of researchers to develop and retain a love of mathematics and science. The MMSS Registration Application allows for the Math department to manage, approve, and deny the application of the summer program.
