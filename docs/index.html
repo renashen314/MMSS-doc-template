@@ -6,7 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- Theme: Defaults -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css">
+<link rel="stylesheet" href="../assets/css/main.css">
+
+   <!-- Custom Styles -->
+   <style>
+     :root {
+       --theme-color:var(--theme-color) #00274C;
+       --cover-color: #00274C;
+      --cover-margin: 0 auto;
+      --cover-max-width: 40em;
+      --cover-text-align: center;
+     }
+   </style>
 </head>
 <body>
   <div id="app"></div>
@@ -20,15 +33,28 @@
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
+      coverpage: true,
       auto2top: true,
       loadSidebar: true,
       subMaxLevel: 3,
       autoHeader: true,
       relativePath: true,
       subLevel: true,
+      themeable: {
+          readyTransition : true, // default
+          responsiveTables: true  // default
+      }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- Required -->
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+   <!-- Recommended -->
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+
 </body>
 </html>
