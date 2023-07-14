@@ -1,4 +1,9 @@
-- Table of Content
-  - [Application Overview](/application_overview.md)
-  - [Understanding Roles](/understanding_roles.md)
-  - [MMSS Registration Application Process](/MMSS_registration_application_process.md)
+- [Application Overview](/application_overview.md)
+- [Understanding Roles](/understanding_roles.md)
+- [MMSS Registration Application Process](/MMSS_registration_application_process.md)
+- [Faculty Feature](/faculty_feature.md)
+- [Courses wait list](/course_waitlist.md)
+- [Travel Feature (Admin view)](/travel_feature.md)
+- [Handling UofM uniqnames](/handling_UofM_uniqnames.md)
+- [Reports](/reports.md)
+- [Additional Assistance](/additional_assistance.md)

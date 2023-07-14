@@ -7,45 +7,42 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <!-- Theme: Defaults -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css">
-<link rel="stylesheet" href="../assets/css/main.css">
-
-   <!-- Custom Styles -->
-   <style>
-     :root {
-       --theme-color:var(--theme-color) #00274C;
-       --cover-color: #00274C;
-      --cover-margin: 0 auto;
-      --cover-max-width: 40em;
-      --cover-text-align: center;
-     }
-   </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css">
+  <link rel="stylesheet" href="../assets/css/theme-custom.css">
 </head>
+
 <body>
   <div id="app"></div>
  <script>
     window.$docsify = {
+      // GENERAL
+      // -----------------------------------------------------------------
       name: 'MMSS-doc-template',
       repo: 'git@github.com:renashen314/MMSS-doc-template.git',
+      homepage: 'application_overview.md',
       basePath: '/docs/',
       externalLinkRel: '', // default: 'noopener'
-      homepage: 'application_overview.md',
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
       coverpage: true,
       auto2top: true,
+      // NAVIGATION
+      // -----------------------------------------------------------------
       loadSidebar: true,
       subMaxLevel: 3,
       autoHeader: true,
       relativePath: true,
       subLevel: true,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      // THEMEABLE
+      // -----------------------------------------------------------------
       themeable: {
           readyTransition : true, // default
           responsiveTables: true  // default
       }
     }
   </script>
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- Required -->

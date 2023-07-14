@@ -1,3 +1,5 @@
+@import "./theme-custom.css";
+
 .markdown-section iframe[src*="buttons.github.io"] {
   margin: 0;
 }

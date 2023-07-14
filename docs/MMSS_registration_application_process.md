@@ -138,3 +138,78 @@ MMSS Applicants will follow the instruction after this screen to complete paymen
 MMSS Applicants will receive a confirmation email of the submitted application. At this point, applicants cannot change their session selections. For the application to be complete, the MMSS Applicant’s Designated Recommender must submit their [Letter of Recommendation](https://docs.google.com/document/d/1DMKtl88GnAAWM5Fkztdc3-tN92SZq2pm1a8yJfxccmE/edit#heading=h.i7obr51sefjy).
 
 At this point, the MMSS Applicant has submitted all required materials. They have the option to request Financial Aid.
+
+## Financial Aid Application
+
+![](https://lh5.googleusercontent.com/MtVfO0R2HWHo6-XXnt4cVZumFAfPXoNPTUuE58ZY_IkQn8JVjD6nUUt1TMYEKMOwc8x6ZZPICrt01unQLvEWPVyC6v7NozAGB5C4dfnuHTywH1LGMiXQho6ZBdL4ip0Y2k8kdo22MhHICernbeNwUFE)
+
+MMSS Applicants will write an explanation of their need for Financial Aid and will upload a redacted copy of their parent’s tax form.  
+
+![](https://lh6.googleusercontent.com/aICoK4YEMh5R8OHiGFtuBEsj6ZIi4Mysa-sn41paEiIWwQwuPz6D22BG1guqAWhoBlWC1cLYOOaAba3p-6NZAcDWAGMd7MsqPMyh1ydFoVGHiWmyN9xvSjnZoP-IiWxYwV-mG7g_Iw02MAohcLuM8Hw)
+
+Once submitted, the Financial Aid status is changed to pending in the Progress Window.
+
+![](https://lh6.googleusercontent.com/BhgvwkXMRFEdPVapD_btW6ijCr5DG08D3v2kdikXnFvTd-T0DlP3Xcju5fiqN069FgtV2FcsQoXZJiuyZiUPl0rWdmU6qSZdw23w9LkKyWbTDUQOCwlusOZZ033IHMDQ2pE2YyIl0AlRLkHLN3de6aE)
+
+**Note:** The MMSS Applicant does not request an amount of financial aid and cannot edit the Financial Aid Request once submitted.
+
+
+## Receiving the Letter of Recommendation
+
+When the MMSS Applicant completes the Letter of Recommendation screen, an email is sent to the Designated Recommender. From there, the Designated Recommender can click on a link to the Recommendation screen of the MMSS Registration Application.
+
+![](https://lh4.googleusercontent.com/e4KJ4JWb64uI4t3izUiAmXStL8khYj5I8rxGgn0S3-HVagIbuoX-Ju9TL1c52URoALaep2_xe8aksrUu51q34MBl0Tyfij2tlYqgrCd7tSgjvE5xf7fJE8q7AXwEl2hrdonLZHOffZ9huXPNvBJkqyA)
+
+The Designated Recommender has the option to type in a Letter of Recommendation or upload a PDF, JPG, or PNG copy of the letter instead. 
+
+Once the Letter of Recommendation is completed by clicking **Create Recommendation**, the MMSS Applicant’s application is marked **“application complete”** in the Progress Window.
+
+![](https://lh4.googleusercontent.com/-HQpzq6MryIyOJkeNWj04OqzplR3ueI5J3hp6D9pSoaadOnr3J4XhrM62F-TMI3GtEt6aqbZDLyWsjptomidu9gckLWE1FQCJd25Ev8-kRIHybQI2nnmGJbpmv6XK8hhCMv23pdZ12O4joAzkZBbvAo)
+
+In addition, 2 emails will be sent:
+
+- Confirmation email sent to the MMSS Applicant that Letter of Recommendation was received.
+- Confirmation/Thank you email sent to the Designated Recommender
+
+
+## Accepting the MMSS Summer Program
+
+Once the MMSS Administrator[ assigns the Session and Course](https://docs.google.com/document/d/1DMKtl88GnAAWM5Fkztdc3-tN92SZq2pm1a8yJfxccmE/edit#heading=h.39rw812rrjbu) for the MMSS Applicant, they will[ send an offer](https://docs.google.com/document/d/1DMKtl88GnAAWM5Fkztdc3-tN92SZq2pm1a8yJfxccmE/edit#heading=h.vm4dg7wh7azt) via email. From this email, the MMSS Applicant can return to the MMSS Registration Application to Accept or Decline the offer.
+
+![](https://lh4.googleusercontent.com/oI2jbPwLkiYsUt8uUQP1L6NeM9qyTYpWNpzYu65Qq2mkdHwJapgYSmh1lP-7SG7qzQeGeALSWFDSlb9dxaBqS79D_HWaDZcla2qKBlDlDcKE_tf3T-JS7WlOXReoyIDsrBvgjg7hL2s3UGBH12A0hQE)
+
+If the MMSS Applicant clicks on **Accept**, they will be taken to the Payment Page. The Application status is updated to **Offer Accepted.**
+
+![](https://lh3.googleusercontent.com/BcBMHvpzbX9NRbAyy6JSyLB_uqjvkGL0uIr3zByIUTCiPFN8PAHIIe-FfBnLNf5kRj7tbz8GW9-QThqjgEQBLFlvmw-EW7Cx7C_j5CCKxEkldvGtYQv_XOgUNFXG72ZO3WnsJbWbMRvQRVaCgitPHgw)
+
+On this page, the MMSS Applicant will need to:
+
+1. Pay for the rest of the program by (time period). Once they pay the full amount, their application status is changed to **enrolled.** The MMSS Applicant will also receive an enrollment email.   
+   ![](https://lh6.googleusercontent.com/JCUjQpXn8ohL2wFLsIhv6p027-07qS7hWiMDOpRYLiEnDet5sj3nX_Pi4SZKzOvgUlZnIY_nTfYmnk-gdkPDC_aM9Xl6AHuxdVCxBoRD405g4pmywxZUBk1w1cnMiaCRK8NchrN1ESFm2Ye6dKtE9rc)
+2. Download the Student Information Pack.  
+   ![](https://lh6.googleusercontent.com/EtxwA_CW45bgySzev8LVPWBt_FwoSQaq-IDx1rxx2-lMks9PZdl5jbwUvkgbdp4jPfHTzAHw38kKS-qTM6u40TZUZC9c6NoIJrj7ZClTGUM1GcIuBPQME1SAUoz3MzWGoqtRFGi0hdzBca26MTGQ6Bc)
+3. The MMSS Applicant will fill out the Student Information packet and then upload the completed Student Information Pack.
+
+![](https://lh3.googleusercontent.com/RpR5-nuSmhn4vcurJMmx52ZeK6BCXHDP6hOC0vlW9kyrb9C2JmNO4zYyHPOUJnNL-KdYganyT_P1rJF_HySVasZ3ab0-rEFwwP6n72N5lU1sWYk5NRNRwCQmLFhl858N5TthNnFGOCzfexY767iWhXw)
+
+4. The MMSS Applicant will also be able to upload their vaccination details in the two fields provided
+
+## Declining the MMSS Summer Program
+
+MMSS Applicants also have the option to decline the spot in the summer program. When they do, they are able to sign back into the MMSS Registration Application and see the declined status.
+
+![](https://lh5.googleusercontent.com/KRWwtZJ1PctlG9IOXrSWnZdhI0oMHPZKgi7QYXsSQPZalzlQ70nBiU9Om_30gE_9Q8iLRu5mmkFLOzHo5SNhqzp9YWRuSH_m9nXUCKroajTSf6XmWMcNmL5u-vw8661rkglA33aAJAx_MTcr8SLODR4)
+
+If the MMSS Applicant selected one session and has decided to decline the offer, then the following occurs:
+
+- An email is sent to the MMSS Applicant with a declined session and course.
+- Session status is changed to **Offer Declined.**
+- The course assignment for the declined session is deleted.
+
+If the MMSS Applicant selected more than one session and has decided to decline one of the session, then the following occurs:
+
+- An email is sent to a user with a declined session and course.
+- Application status is changed to **Offer Declined.**
+- Offer status is changed to **Declined.**
+- Session(s) status is changed to **Declined.**
+- The course assignment(s) for the corresponding declined session(s) is deleted
